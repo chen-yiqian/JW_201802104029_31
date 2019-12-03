@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/JW_201802104029/build/
+/JW_201802104029/out/
+/JW_201802104029/out/production/classes/
